@@ -1,0 +1,1 @@
+# managing_gcp_with_terraform
